@@ -12,6 +12,7 @@ export const products = [
     name: "Smart Watch",
     price: 85.49,
 
+
   },
   {
     id: 3,

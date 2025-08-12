@@ -1,0 +1,19 @@
+/*body{*/
+/*    background-color: lightblue;*/
+/*}*/
+.bg-light{
+    background-color: #2b3035;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.container{
+    flex: 1;
+}
+footer {
+  background: #f8f9fa;
+  text-align: center;
+  padding: 1rem;
+}
